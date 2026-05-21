@@ -15,6 +15,7 @@ const COLORS = {
   6: "#569cd6", // Keyword blue
   7: "#b5cea8", // Number green
   8: "#000000", // Void (black)
+  9: "#6a9955", // Comment green
 };
 
 // Tetromino shapes (simplified for easier pattern matching)
